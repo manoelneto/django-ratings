@@ -8,7 +8,11 @@ A generic ratings module. The field itself appends two additional fields on the 
 Installation
 ============
 
-You will need to add ``djangoratings`` to your ``INSTALLED_APPS``::
+On terminal::
+
+``pip install django-ratings``
+
+After you will need to add ``djangoratings`` to your ``INSTALLED_APPS``::
 
 	INSTALLED_APPS = (
 	    'django.contrib.admin',
