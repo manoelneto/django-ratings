@@ -10,7 +10,7 @@ Installation
 
 On terminal::
 
-``pip install django-ratings``
+	pip install django-ratings
 
 After you will need to add ``djangoratings`` to your ``INSTALLED_APPS``::
 
